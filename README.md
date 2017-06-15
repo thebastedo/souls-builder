@@ -1,3 +1,13 @@
+# Dark Souls 3 Build Calculator
+
+A very basic (for now) build calculator for Dark Souls 3. Mainly done as a 5 hour intro into react native. Below this
+section is information from [Create React Native App](https://github.com/react-community/create-react-native-app)
+which was used to bootstrap the application.
+
+Inspired by tools such as [mungenmonkey](https://mugenmonkey.com/darksouls3), this is very simple in comparison. Maybe there will be more work on this someday.
+
+## Boiler plate documentation
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
